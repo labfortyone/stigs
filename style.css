@@ -1,0 +1,51 @@
+/*
+Theme Name: Stigs
+Author: Fernando
+
+Description:
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+*/
+
+body {
+}
+
+.facebook img{
+    float: right;
+    position: relative;
+    bottom: 35px;
+}
+header{
+    border-bottom: 1px solid #4D5050;
+}
+.open{
+    margin-top: 50px;
+}
+.between-images{
+    overflow: hidden;
+}
+footer{
+    padding: 50px 0px;
+    text-align: center;
+    font-family: 'Palatino Linotype', serif;
+    color: #67686B;
+    border-top: 1px solid #4D5050;
+}
+
+.poynton{
+    float: right;
+    padding-top: 5px;
+}
+.poynton img{
+    float: right;
+}
+.locations{
+    padding: 50px 0px;
+}
+.lab41-logo{
+    width: 100px;
+}
+.suppliers{
+    margin-bottom: 40px;
+}
