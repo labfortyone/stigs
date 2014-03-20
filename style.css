@@ -14,13 +14,18 @@ body {
 .facebook img{
     float: right;
     position: relative;
-    bottom: 35px;
+    bottom: 28px;
 }
 header{
     border-bottom: 1px solid #4D5050;
+    padding-top: 40px;
 }
 .open{
     margin-top: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
 }
 .between-images{
     overflow: hidden;
